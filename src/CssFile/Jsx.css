@@ -1,0 +1,17 @@
+
+#props_element {
+    background: #61dafb;
+    color: #10465e;
+    border-top: 3px solid #ffffff;
+    border-bottom: 3px solid #10465e;
+    border-left: 3px solid #10465e;
+    border-right: 3px solid #10465e;
+    position: relative;
+
+}
+
+.jsx-item p{
+    font-size: 20px;
+    padding: 10px;
+    font-weight: 700;
+}
